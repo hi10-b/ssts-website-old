@@ -1,0 +1,4 @@
+export const ActionTypes = {
+	SET_EVENTS: 'SET_EVENTS',
+	SET_TOPGRID_EVENTS: 'SET_TOPGRID_EVENTS',
+};
